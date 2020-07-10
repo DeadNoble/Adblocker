@@ -33,7 +33,7 @@
 
 			<key>ProxyPACURL</key>
 			<!-- REPLACE URL_TO_YOUR_PAC_FILE WITH THE LINK -->
-			<string>https://raw.githubusercontent.com/DeadNoble/Adblocker/master/proxy.pac?token=AP2MVC5O4YRSV3QSCRTYYD27BBZ4C</string>
+			<string>https://raw.githubusercontent.com/DeadNoble/Adblocker/master/proxy.pac</string>
 
 			<key>ProxyType</key>
 			<string>Auto</string>
